@@ -1,8 +1,8 @@
 New project
 ```
 git init
-'''
-'''
+```
+```
 git add .
 ```
 ```
